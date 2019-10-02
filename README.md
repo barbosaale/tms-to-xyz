@@ -13,3 +13,5 @@ Just run the script with python on terminal passing as parameter the folder cont
 
 <b>Example:</b>  $ python tms-to-xyz.py C:\tiles 
 
+<i> Back up your tiles before running! </i>
+
