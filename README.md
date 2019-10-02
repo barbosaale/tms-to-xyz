@@ -9,5 +9,7 @@ The script tms-to-xyz.py converts a set of tiles located in the folder informed 
 
 <h4> Instructions for use: </h4>
 
+Just run the script with python on terminal passing as parameter the folder containing the tiles
 
+<b>Example:</b>  $ python tms-to-xyz.py C:\tiles 
 
